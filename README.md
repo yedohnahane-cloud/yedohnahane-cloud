@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm Marie 👋
 
-<!--
-**yedohnahane-cloud/yedohnahane-cloud** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+L3 Computer Science Student at Aix-Marseille University.
 
-Here are some ideas to get you started:
+Interested in Software Engineering, Backend Development, and Web Applications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech Stack
+Java • Python • Django • Flask • HTML • CSS • JavaScript • SQL • Git • REST APIs
+
+## Currently Learning
+React • Docker • Node.js • TypeScript
+
+## Featured Projects
+- AMUConnect
+- JavaMastery AI
+- FraudShield (in progress)
+
+## Goal
+Build production-ready software and join a Software Engineering program.
